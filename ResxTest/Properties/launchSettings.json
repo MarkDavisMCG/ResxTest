@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ResxTest": {
+      "commandName": "Project",
+      "commandLineArgs": "i"
+    }
+  }
+}
